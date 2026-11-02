@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Lets_See_Afghanistan",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "LSA",
+  "start_url": "/",
+  "theme_color": "#9ae985",
+  "id": "Lets-See-Afghanistan",
+  "description": "Explore the history and beautiful places of Afghanistan"
+}
