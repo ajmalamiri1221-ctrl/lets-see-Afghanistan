@@ -1,0 +1,9 @@
+{
+  "name": "Let's See Afghanistan",
+  "short_name": "See Afghanistan",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#14532d",
+  "description": "Explore the history and beautiful places of Afghanistan."
+}
